@@ -34,11 +34,18 @@
 // }
 
 // variables.less
-$theme-primary: #F05F40;
+$theme-primary: #007352;
+$theme-primary-darker: #115a43;
+$theme-secondary: #fdb716;
 $theme-dark: #222;
+$theme-light: #ddd;
+$theme-gray: #ccc;
+
+$theme-primary-gradient: linear-gradient(to right, $theme-primary, $theme-primary-darker);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
+        "mailchimp-form",
         "base"
 ;

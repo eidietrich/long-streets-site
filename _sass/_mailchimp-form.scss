@@ -1,0 +1,40 @@
+/* Changes the style of the overall form */
+#mc_embed_signup {
+    background: $theme-light;
+    color: $theme-dark;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styles the header text above the inputs */
+#mc_embed_signup h2 {
+    font-size: 14px;
+    margin: 0 0 20px;
+    color: $theme-dark;
+    text-align: center;
+}
+
+/* Adds extra space around the input boxes */
+#mc_embed_signup .mc-field-group {
+    padding: 10px 5px;
+}
+
+/* Styles the input boxes */
+#mc_embed_signup  input {
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+/* Styles the subscribe button */
+#mc_embed_signup .button {
+    background-color: $theme-secondary;
+    color: #ffffff;
+    margin: 0 auto;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 300px;
+    font-weight: 700;
+    text-transform: uppercase;
+}

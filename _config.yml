@@ -1,12 +1,12 @@
 # Site settings
 title: "Long Streets Montana"
-email:
-description: > # this means to ignore newlines until "baseurl:"
+email: "hello@longstreetsmt.com"
+description: Exploring Montana's economic future
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://longstreetsmt.com" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: "longstreetsmt"
+facebook_page:
 
 # Build settings
 markdown: kramdown

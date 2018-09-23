@@ -1,14 +1,15 @@
-# Creative Theme for Jekyll
+# Long Streets MT website
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+TODO:
+- Contrast on header tagline
+- Logo - add texture to green somehow? Gradient?
+- Proof design (tweak margins, colors)
+- Add professional mug shots
+- Write copy
+- Add in contact info
+- Integrate in newsletter (and refine signup styling)
+- Bug - hero image/text misaligned at some screen sizes
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+Based on [Creative Theme for Jekyll](https://volny.github.io/creative-theme-jekyll/).
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
-
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+Code here licensed under Apache license 2.0, rights reserved for photos and non-trivial writing.
