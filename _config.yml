@@ -1,12 +1,12 @@
 # Site settings
 title: "Long Streets Montana"
-email: "hello@longstreetsmt.com"
+email: "staff@longstreetsmt.com"
 description: Exploring Montana's economic future
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://longstreetsmt.com" # the base hostname & protocol for your site
 
 twitter_username: "longstreetsmt"
-facebook_page:
+facebook_page: "longstreetsmt"
 
 # Build settings
 markdown: kramdown
