@@ -381,17 +381,32 @@ header {
     padding: 100px 15px 100px;
     width: 100%; }
     header .header-content .header-content-inner {
-      width: 100%; }
+      max-width: 80%;
+      margin: auto; }
+      header .header-content .header-content-inner h1 {
+        font-weight: 700;
+        text-transform: uppercase;
+        margin-top: 0;
+        margin-bottom: 0; }
+      header .header-content .header-content-inner hr {
+        margin: 30px auto; }
+      header .header-content .header-content-inner p {
+        font-weight: 300;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 16px;
+        margin-bottom: 50px; }
       header .header-content .header-content-inner .header-logo {
-        width: 100%; }
+        width: 80%; }
       header .header-content .header-content-inner .header-tagline {
+        padding-left: 5px;
+        padding-right: 5px;
         font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
         font-weight: 700;
-        font-size: 22px;
+        font-size: 3vw;
         margin-top: 20px;
-        margin-bottom: 50px; }
-      header .header-content .header-content-inner .btn-call-to-action {
-        display: none; }
+        margin-bottom: 50px;
+        margin-left: 20px;
+        margin-right: 20px; }
   @media (min-width: 768px) {
     header {
       min-height: 100%; }
@@ -403,16 +418,14 @@ header {
         transform: translateY(-50%);
         padding: 0 50px; }
         header .header-content .header-content-inner {
-          width: 80%;
           max-width: 1000px;
           margin-left: auto;
           margin-right: auto; }
-          header .header-content .header-content-inner .header-logo {
-            width: 80%; }
-          header .header-content .header-content-inner .header-tagline {
-            font-size: 30px; }
-          header .header-content .header-content-inner .btn-call-to-action {
-            display: inline-block; } }
+          header .header-content .header-content-inner p {
+            font-size: 18px;
+            max-width: 80%;
+            margin-left: auto;
+            margin-right: auto; } }
 
 .service-box {
   max-width: 400px;
@@ -599,8 +612,7 @@ img.team-logo:hover {
 
 #contact .fa {
   color: #fdb716;
-  font-size: 4em;
-  margin-bottom: 5px; }
+  font-size: 4em; }
 
 #contact .fa:hover {
   color: #ddd;
