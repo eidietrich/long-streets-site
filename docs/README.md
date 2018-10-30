@@ -3,6 +3,8 @@
 TODO:
 - Add professional mug shots
 - Add Google Analytics tracking
+- Optimize hero image size
+- Figure out how to make HTTPS work
 - Add newsletter archive?
 
 Based on [Creative Theme for Jekyll](https://volny.github.io/creative-theme-jekyll/).
