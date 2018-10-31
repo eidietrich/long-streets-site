@@ -1,12 +1,11 @@
 # Long Streets MT website
 
-TODO:
-- Add professional mug shots
-- Add Google Analytics tracking
-- Optimize hero image size
-- Figure out how to make HTTPS work
-- Add newsletter archive?
+Live: https://longstreetsmt.com
 
 Based on [Creative Theme for Jekyll](https://volny.github.io/creative-theme-jekyll/).
 
 Code here licensed under Apache license 2.0, rights reserved for photos and non-trivial writing.
+
+TODO:
+- Optimize hero image size
+- Add newsletter archive
