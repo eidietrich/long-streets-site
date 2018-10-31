@@ -5,6 +5,7 @@
 
 jekyll build
 rm -rf docs
+rm -rf _site/docs
 cp -r _site/ docs/
 cp CNAME docs/CNAME
 git add -A
