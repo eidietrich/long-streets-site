@@ -1,14 +1,9 @@
 # Long Streets MT website
 
 TODO:
-- Contrast on header tagline
-- Logo - add texture to green somehow? Gradient?
-- Proof design (tweak margins, colors)
 - Add professional mug shots
-- Write copy
-- Add in contact info
-- Integrate in newsletter (and refine signup styling)
-- Bug - hero image/text misaligned at some screen sizes
+- Add Google Analytics tracking
+- Add newsletter archive?
 
 Based on [Creative Theme for Jekyll](https://volny.github.io/creative-theme-jekyll/).
 
