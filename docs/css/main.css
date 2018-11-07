@@ -29,6 +29,9 @@ MailChimp Form Embed Code - Classic - 12/17/2015 v10.7
 #mc_embed_signup input[type=checkbox] {
   -webkit-appearance: checkbox; }
 
+#mc_embed_signup .check-label {
+  margin-left: 5px; }
+
 #mc_embed_signup input[type=radio] {
   -webkit-appearance: radio; }
 
